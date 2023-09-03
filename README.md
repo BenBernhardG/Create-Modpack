@@ -1,3 +1,3 @@
 # Create-Modpack
 
-Lal
+The modpack for our surviaval projekt.
